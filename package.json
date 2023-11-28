@@ -1,6 +1,6 @@
 {
   "name": "eventschedulerweb",
-  "homepage": "https://nik.github.io/eventschedulerweb",
+  "homepage": "https://nik.github.io/Event-Scheduler-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
