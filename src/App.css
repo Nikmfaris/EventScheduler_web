@@ -1,9 +1,5 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
-
 .App {
   text-align: center;
-  font-family: 'Poppins', sans-serif;
 }
 
 .App-logo {
@@ -15,47 +11,6 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
-.button{
-  display: flex;
-  justify-content: space-between;
-  
-}
-.but{
- 
-  font-family: 'Poppins', sans-serif;
-  background-color: #282c34;
-  border: 1px solid #61dafb;
-  border-radius: 4px;
-  margin-right: 5px;
-  box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
-  box-sizing: border-box;
-  color: #fff;
-  cursor: pointer;
-  font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  outline: none;
-  outline: 0;
-  padding: 10px 25px;
-  text-align: center;
-  transform: translateY(0);
-  transition: transform 150ms, box-shadow 150ms;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-}
-
-.but:hover {
-  box-shadow: rgba(0, 0, 0, .15) 0 3px 9px 0;
-  transform: translateY(-20px);
-}
-
-@media (min-width: 768px) {
-  .but {
-    padding: 10px 30px;
-  }
-
 }
 
 .App-header {
