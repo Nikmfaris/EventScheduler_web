@@ -1,3 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@1000&display=swap');
+
+
+.container{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.calendar-container{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+
 .react-calendar { 
   width: 600px;
   padding: 5px;
@@ -6,7 +24,7 @@
   color: rgb(41, 38, 38);
   border-radius: 6px;
   box-shadow: 0 10px 22px rgba(112, 78, 3, 0.2);
-  font-family: Arial, Helvetica, sans-serif;
+  
   line-height: 1.12em;
   
  }
