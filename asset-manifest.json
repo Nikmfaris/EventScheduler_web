@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Event-Scheduler-web/static/css/main.47157b37.css",
-    "main.js": "/Event-Scheduler-web/static/js/main.9b19c229.js",
-    "static/js/787.f8dec126.chunk.js": "/Event-Scheduler-web/static/js/787.f8dec126.chunk.js",
-    "index.html": "/Event-Scheduler-web/index.html",
-    "main.47157b37.css.map": "/Event-Scheduler-web/static/css/main.47157b37.css.map",
-    "main.9b19c229.js.map": "/Event-Scheduler-web/static/js/main.9b19c229.js.map",
-    "787.f8dec126.chunk.js.map": "/Event-Scheduler-web/static/js/787.f8dec126.chunk.js.map"
+    "main.css": "/EventScheduler_web/static/css/main.47157b37.css",
+    "main.js": "/EventScheduler_web/static/js/main.1d603ec6.js",
+    "static/js/787.f8dec126.chunk.js": "/EventScheduler_web/static/js/787.f8dec126.chunk.js",
+    "index.html": "/EventScheduler_web/index.html",
+    "main.47157b37.css.map": "/EventScheduler_web/static/css/main.47157b37.css.map",
+    "main.1d603ec6.js.map": "/EventScheduler_web/static/js/main.1d603ec6.js.map",
+    "787.f8dec126.chunk.js.map": "/EventScheduler_web/static/js/787.f8dec126.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47157b37.css",
-    "static/js/main.9b19c229.js"
+    "static/js/main.1d603ec6.js"
   ]
 }
