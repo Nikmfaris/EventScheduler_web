@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EventScheduler_web/static/css/main.47157b37.css",
-    "main.js": "/EventScheduler_web/static/js/main.1d603ec6.js",
+    "main.css": "/EventScheduler_web/static/css/main.35833015.css",
+    "main.js": "/EventScheduler_web/static/js/main.0c6637d3.js",
     "static/js/787.f8dec126.chunk.js": "/EventScheduler_web/static/js/787.f8dec126.chunk.js",
     "index.html": "/EventScheduler_web/index.html",
-    "main.47157b37.css.map": "/EventScheduler_web/static/css/main.47157b37.css.map",
-    "main.1d603ec6.js.map": "/EventScheduler_web/static/js/main.1d603ec6.js.map",
+    "main.35833015.css.map": "/EventScheduler_web/static/css/main.35833015.css.map",
+    "main.0c6637d3.js.map": "/EventScheduler_web/static/js/main.0c6637d3.js.map",
     "787.f8dec126.chunk.js.map": "/EventScheduler_web/static/js/787.f8dec126.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47157b37.css",
-    "static/js/main.1d603ec6.js"
+    "static/css/main.35833015.css",
+    "static/js/main.0c6637d3.js"
   ]
 }
