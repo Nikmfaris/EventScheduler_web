@@ -1,23 +1,33 @@
-import React, { useState } from 'react';
-import Calendar from 'react-calendar';
-import 'react-calendar/dist/Calendar.css';
-import './App.css';
+
+import './Admin_update';
+import './Calendar_main';
+import React from 'react';
+import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
+import Adminupdate from'./Admin_update';
+import Calendar_main from  './Calendar_main'
+import Main from './Main'
+
+
+
+
+
 function App() {
-  const [date, setDate] = useState(new Date())
- 
- 
- return (
-  <div className="container">
-    <h1 className="header">IIUM event Scheduler
-    </h1>
-    <div className="calendar-container">
-      <Calendar onChange={setDate} value={date}/>
-    </div>
-    <div className="text-center">
-       Your selected date: {date.toDateString()}
-    </div>
-    <h1>test</h1>
-  </div>
-   )
- 
-}export default App;
+
+  
+  return(
+    
+         <Router>
+          <Routes>
+          <Route path="/EventScheduler_web" element={<Calendar_main/>}/>
+            <Route path="/admin" element={<Adminupdate/>}/>
+          
+          </Routes>
+        </Router>
+    
+     
+       
+  );
+}
+  
+  
+export default App;
