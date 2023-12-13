@@ -22,7 +22,7 @@ function App() {
         Tab content for Contact
       </Tab>
     </Tabs> */}
-  
+      <BasicExample/>
       <CalendarApp/>
       {/* <TextControlsExample/> */}
     </div>

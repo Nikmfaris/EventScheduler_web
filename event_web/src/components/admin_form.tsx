@@ -6,7 +6,7 @@ function TextControlsExample() {
         <Form>
           <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
             <Form.Label>Name program</Form.Label>
-            <Form.Control type="email" placeholder="bruh" />
+            <Form.Control type="email"  />
           </Form.Group>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
             <Form.Label>details</Form.Label>
